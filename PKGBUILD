@@ -11,7 +11,7 @@ depends=('bash' 'pacman' 'cower' 'shadow' 'obarun-libs' 'expac')
 backup=('etc/obarun/pacopts.conf')
 makedepends=('git')
 sha1sums=('SKIP')
-source=("${pkgname}::git+${url}#tag=${pkgver}")
+source=("${pkgname}::git+${url}#tag=v${pkgver}")
 validpgpkeys=('6DD4217456569BA711566AC7F06E8FDE7B45DAAC') # Eric Vidal
 
 package() {
