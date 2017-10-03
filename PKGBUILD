@@ -1,7 +1,7 @@
 # Maintainer Eric Vidal <eric@obarun.org>
 
 pkgname=pacopts
-pkgver=0.1.1
+pkgver=0.1.2
 pkgrel=1
 pkgdesc='A scripts to provide option for pacman after installation'
 url='https://github.com/Obarun/pacopts.git'
