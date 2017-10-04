@@ -1,13 +1,13 @@
 # Maintainer Eric Vidal <eric@obarun.org>
 
 pkgname=pacopts
-pkgver=0.1.2
+pkgver=0.1.3
 pkgrel=1
-pkgdesc='A scripts to provide option for pacman after installation'
+pkgdesc='A scripts to handle packages in conjonction with pacman'
 url='https://github.com/Obarun/pacopts.git'
 arch=(x86_64)
-license=('BEERWARE')
-depends=('bash' 'pacman' 'cower' 'shadow' 'obarun-libs' 'expac')
+license=('ISC')
+depends=('bash' 'pacman' 'cower' 'obarun-libs' 'expac' 'applysys')
 backup=('etc/obarun/pacopts.conf')
 makedepends=('git')
 sha1sums=('SKIP')
