@@ -1,7 +1,7 @@
 # Maintainer Eric Vidal <eric@obarun.org>
 
 pkgname=pacopts
-pkgver=0.1.3
+pkgver=0.1.5
 pkgrel=1
 pkgdesc='A scripts to handle packages in conjonction with pacman'
 url='https://github.com/Obarun/pacopts.git'
